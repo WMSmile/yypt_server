@@ -1,0 +1,3 @@
+<?php
+//000000036000a:19:{s:2:"id";i:1;s:7:"user_id";i:1;s:4:"name";s:15:"测试公众号";s:5:"appid";s:18:"wx0e5c62d7a3b6e004";s:9:"appsecret";s:32:"f4a68eb721db09f13e85c09caf079911";s:9:"origin_id";s:15:"gh_314bc044512b";s:4:"type";i:1;s:6:"status";i:1;s:11:"valid_token";s:32:"MIL4umO8pWIkfNhvNx01uBDupfUqS7J4";s:12:"valid_status";i:1;s:5:"token";s:32:"gVzaHNIx9RiO40KiXbJScNN2t7SLF2gl";s:14:"encodingaeskey";s:43:"ofVvs4t2lbhQBrzZ2JhFWu7P2q07SHTGmeCfIwHu8pL";s:13:"wechat_number";s:15:"gh_314bc044512b";s:4:"desc";s:30:"系统维护中，请稍后。";s:4:"logo";s:60:"public/uploads/20180226/34d087cb630a71006e67e25c47b968d2.png";s:6:"qrcode";s:0:"";s:11:"create_time";i:1505629364;s:10:"login_name";N;s:6:"is_use";i:1;}
+?>
