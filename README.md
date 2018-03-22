@@ -6,7 +6,7 @@
 主要适用技术栈：
 后端框架：ThinkPHP 5.x
 前端MVVM框架：Vue.JS 2.x
-开发工作流：Webpack 1.x
+开发工作流：Webpack 3.x
 路由：Vue-Router 2.x
 数据交互：Axios
 代码风格检测：Eslint
