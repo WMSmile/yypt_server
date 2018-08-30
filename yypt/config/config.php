@@ -241,9 +241,9 @@ return [
 
     'weChat'  => [
         // 验证码字符集合
-        'APPID'  => 'wxe8b490f4ebb2e162',
+        'APPID'  => '',
         // 商户号
-        'MCHID' => '1488305402',
+        'MCHID' => '',
         // 支付密钥
         'KEY' => false,
         // 公众帐号secert
