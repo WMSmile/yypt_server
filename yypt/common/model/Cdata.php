@@ -19,15 +19,15 @@ class Cdata extends Common
         // 数据库连接DSN配置
         'dsn'         => '',
         // 服务器地址
-        'hostname'    => '113.207.26.124',//113.204.47.108  微信公众113.207.26.124
+        'hostname'    => 'localhost',
         // 数据库名
-        'database'    => 'cdata_rental_production',//cdata_rental_production
+        'database'    => 'cdata_rental_production',
         // 数据库用户名
         'username'    => 'postgres',
         // 数据库密码
-        'password'    => 'ttxs9999',
+        'password'    => '',
         // 数据库连接端口
-        'hostport'    => '5230', //5432
+        'hostport'    => '5230', 
         // 数据库连接参数
         'params'      => [],
         // 数据库编码默认采用utf8
