@@ -10,15 +10,15 @@ return [
     // 数据库类型
     'type'           => 'mysql',
     // 服务器地址
-    'hostname'        => '113.204.47.108',//113.204.47.108
+    'hostname'        => 'localhost',
     // 数据库名
-    'database'        => 'yydb',
+    'database'        => 'yydata',
     // 用户名
-    'username'        => 'yypt',//yypt
+    'username'        => 'yyptuser',
     // 密码
-    'password'        => 'yypt-1Qaz2Wsx3Edc',//!qaz@wsx#edc$tgb
+    'password'        => 'weeweqqqq111111',
     // 端口
-    'hostport'       => '3306',
+    'hostport'       => '3361',
     // 连接dsn
     'dsn'            => '',
     // 数据库连接参数
